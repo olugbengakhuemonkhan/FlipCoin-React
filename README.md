@@ -1,1 +1,1 @@
-Coin Flip is an in class game built with react. At the click of the button Flip, the coin is flipped from the head to the tail. This is a react mimic of the coin toss game that flags off the start of most games. 
+Coin Flip is an in class game built with react. At the click of the button Flip, the coin is flipped from the head to the tail. This is a react mimic of the coin toss that flags off the start of most games. 
